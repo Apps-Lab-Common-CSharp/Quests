@@ -82,8 +82,14 @@ Moderate:
   Print words in a frame to console.
 
 Hard:
+* [CG Horse Racing](https://www.codingame.com/ide/puzzle/horse-racing-duals) (30 XP)  
+  Check your knowledge of conditions, loops, arrays...
+* [CG Temperatures](https://www.codingame.com/training/easy/temperatures) (80 XP)  
+  Check your knowledge of conditions, loops, arrays...
 * [Gilded Rose](https://github.com/AppsLab2019/GildedRose) (100 XP)  
   Check your knowledge of conditions, loops, properties,...
+* [CG Circuit Resistance](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building) (150 XP)  
+  Check your knowledge of conditions, loops, arrays...
   
 Very hard:
 * [Open-Lab-05.01](https://github.com/AppsLab2019/Open-Lab-05.01) (18 XP)  
